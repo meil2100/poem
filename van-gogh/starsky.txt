@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>桃花源里美人多</title>
+    <meta charset="utf-8" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="桃花源里美人多">
+	<meta property="og:description" content="2018年春，外地同学相约回乡省亲，烟花三月聚首扬城。数位同学分别三十六七载后再次重逢，兴奋之情无以言表...">
+	<meta property="og:image" content="https://meil2100.github.io/poem/backhome18/IMG_2436.jpg">
+	<meta property="og:url" content="https://meil2100.github.io/poem/backhome18/">
+</head>
+<body>
+<table  width="100%" align="center" style="margin: 0px auto; font-size: xx-large; font-family: STXihei， '华文细黑'， 'Microsoft Yahei'，'微软雅黑'， KaiTi，'楷体'，STKaiti，'华文楷体'">
+		<tr><td align="left"><audio controls volume="0.8" autoplay loop><source src="taohuakai3.mp3" type="audio/mpeg">Your browser does not support the audio element.</audio></td></tr>
+        <!--<tr><th align="center" style="font-size: 120%;">梅郎返乡记</th></tr>-->        
+<tr><td align="center" style="font-size: 150%;">序</td></tr>
+
+<tr><td align="center" style="font-size: 150%;">阿尔的星空</td></tr>
+<tr><td align="center" style="font-size: 120%;">疏影横斜</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+        <tr><td align="center"><img alt="" src="IMG_2436.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+
+金黄色的季风，吹透阿尔的麦田<br />
+带着未愈合的伤疤，在苍穹下狂奔<br />
+傍晚的咖啡馆明亮而愉快<br />
+绿色的苦艾酒，留下时间的存根<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+空气中弥漫着柠檬黄的味道<br />
+慰籍着异乡人的困顿之身<br />
+天鹅绒般柔软的蓝色天幕<br />
+隐藏了星球的真相，掩盖了大地的裂痕<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">蓝色鸢尾花放肆的盛开<br />
+太阳以骇人听闻的速度升腾<br />
+夏秋之际的风，吹弯麦穗和画布<br />
+炽热着空手，拧开了宇宙的法门<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+光和热的巨浪，飞速的旋转<br />
+惊飞的乌鸦，割破了夜空的沉闷<br />
+向日葵，照亮了罗恩河怪异的上空<br />
+银河大桥下的波澜，暗流着浮沉<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+穿行在星空和麦田之间<br />
+生命和死亡，在同一个维度共振<br />
+红色的颜料，红色的血液，红色的头发<br />
+一同被卷进了星系的涡轮<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+被激流一样回旋的天河裹挟<br />
+了然每一颗星球的生辰<br />
+光线和热浪形成了漩涡🌀<br />
+目睹恒星的毁灭，见证新星的诞生<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+潜行者在这疯狂的城池<br />
+炫耀着战利品，收集凋谢的温存<br />
+把点点星光都束之高阁<br />
+画笔触摸到隐秘空间的精纯<br />
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+肉体被无情鞭挞，灵魂被喋喋不休的追问<br />
+用镰刀收割成熟的麦田，也收割惨淡的人生<br />
+阿尔的天空下，种满了挺拔的葵花🌻树<br />
+死亡之路，通向遥远的星辰<br />
+
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+2017年8月16北京
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+
+<tr><td align="center"><img alt="" src="IMG_2441.jpg" width="100%" /></td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+<tr><td align="center" style="font-size: 150%;">
+
+精纯：明净纯洁
+</td></tr>
+<tr><td align="center">&nbsp;</td></tr>
+</table>
+    
+</body>
+</html>
